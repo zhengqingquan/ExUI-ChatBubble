@@ -1,0 +1,12 @@
+## Interface: 110000
+## Title: ExUI-ChatBubble
+## Version: v1.0.0
+## Notes: Standalone plugin for displaying unit names in bubbles.
+## Notes-zhCN: 用于在在气泡中显示单位名称的独立插件。
+## Author: 嚣张的扇贝
+## x-Github: https://github.com/zhengqingquan/ExUI-ChatBubble
+## x-CurseForge: 
+## x-legacy_curseforge: 
+
+# main
+main\main.lua
